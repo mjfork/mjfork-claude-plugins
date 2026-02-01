@@ -24,27 +24,16 @@ Teaches Claude how to use gog CLI commands for Google Workspace operations:
 
 ## Installation
 
-### Claude Code
+### Claude Code (Recommended)
 
-Copy to your skills directory:
-
-```bash
-# Clone this repo
-git clone https://github.com/mjfork/gog-cli-skill.git
-
-# Copy to Claude Code skills
-cp -r gog-cli-skill ~/.claude/skills/gog
 ```
-
-Or install as a plugin:
-
-```bash
-cp -r gog-cli-skill ~/.claude/plugins/gog-cli-skill
+/plugin marketplace add mjfork/gog-cli-skill
+/plugin install gog-cli@mjfork
 ```
 
 ### Claude.ai
 
-Upload the `SKILL.md` file directly to Claude.ai's skill interface.
+Upload the `skills/gog/SKILL.md` file directly to Claude.ai's skill interface.
 
 ## Prerequisites
 
