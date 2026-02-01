@@ -30,7 +30,7 @@ Copy to your skills directory:
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/gog-cli-skill.git
+git clone https://github.com/mjfork/gog-cli-skill.git
 
 # Copy to Claude Code skills
 cp -r gog-cli-skill ~/.claude/skills/gog
