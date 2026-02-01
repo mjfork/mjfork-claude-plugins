@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "gog-cli",
-      "source": ".",
+      "source": "./",
       "description": "Command reference for gog CLI - Google Workspace CLI by @steipete",
       "version": "1.0.0"
     }
