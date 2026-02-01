@@ -27,7 +27,7 @@ Teaches Claude how to use gog CLI commands for Google Workspace operations:
 ### Claude Code (Recommended)
 
 ```
-/plugin marketplace add mjfork/gog-cli-skill
+/plugin marketplace add mjfork/mjfork-claude-plugins
 /plugin install gog-cli@mjfork
 ```
 
